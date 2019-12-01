@@ -23,7 +23,6 @@ The Challenge was to identify characteristics of investors that are most predict
 In Summary...
 
 Provided the Client interactive & integrated dashboards to help investors and corporates more efficiently prepare for meetings by quickly identifying themes, trends and outlier data that is most likely to warrant discussion. This was accomplished with easy to use analytics to quickly compare fundamental, valuation and sentiment factors relative to peers. 
-Data-Core’s simple but meaningful designing of dashboards was a huge satisfaction to the Client which then got promoted to one of the most complicated Dundas BI dashboards in the industry, followed by data migration from MySQL to Data Warehouse. Data-Core continues to provide maintenance to the developed dashboards.
 
 
 1. Collect Data & Identity Target:
